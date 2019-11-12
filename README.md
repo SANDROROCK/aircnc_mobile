@@ -3,4 +3,4 @@
 <p><b>Treinamento rocketseat<b></p>
 <p>Tecnologia usada para desenvolvimento React Native </p>
 <p>Foi feito uso da tecnologia Expo <p>
-<img src="src/assets/2.png">
+<img src="./src/assets/2.png">
